@@ -4,7 +4,7 @@
 
 #### [See it Live](https://Hasezy.github.io/milad-ai/)
 
-#### Update: Now you can customize all the texts without modifying the code!
+#### Update: Now you can customize all t he texts without modifying the code!
 
 On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
 
